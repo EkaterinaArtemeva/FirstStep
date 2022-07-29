@@ -1,0 +1,15 @@
+C:\Kate\FirstStepInProgramming\SolutionTask8HW\bin\Debug\net6.0\SolutionTask8HW.exe
+C:\Kate\FirstStepInProgramming\SolutionTask8HW\bin\Debug\net6.0\SolutionTask8HW.deps.json
+C:\Kate\FirstStepInProgramming\SolutionTask8HW\bin\Debug\net6.0\SolutionTask8HW.runtimeconfig.json
+C:\Kate\FirstStepInProgramming\SolutionTask8HW\bin\Debug\net6.0\SolutionTask8HW.dll
+C:\Kate\FirstStepInProgramming\SolutionTask8HW\bin\Debug\net6.0\SolutionTask8HW.pdb
+C:\Kate\FirstStepInProgramming\SolutionTask8HW\obj\Debug\net6.0\SolutionTask8HW.csproj.AssemblyReference.cache
+C:\Kate\FirstStepInProgramming\SolutionTask8HW\obj\Debug\net6.0\SolutionTask8HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kate\FirstStepInProgramming\SolutionTask8HW\obj\Debug\net6.0\SolutionTask8HW.AssemblyInfoInputs.cache
+C:\Kate\FirstStepInProgramming\SolutionTask8HW\obj\Debug\net6.0\SolutionTask8HW.AssemblyInfo.cs
+C:\Kate\FirstStepInProgramming\SolutionTask8HW\obj\Debug\net6.0\SolutionTask8HW.csproj.CoreCompileInputs.cache
+C:\Kate\FirstStepInProgramming\SolutionTask8HW\obj\Debug\net6.0\SolutionTask8HW.dll
+C:\Kate\FirstStepInProgramming\SolutionTask8HW\obj\Debug\net6.0\refint\SolutionTask8HW.dll
+C:\Kate\FirstStepInProgramming\SolutionTask8HW\obj\Debug\net6.0\SolutionTask8HW.pdb
+C:\Kate\FirstStepInProgramming\SolutionTask8HW\obj\Debug\net6.0\SolutionTask8HW.genruntimeconfig.cache
+C:\Kate\FirstStepInProgramming\SolutionTask8HW\obj\Debug\net6.0\ref\SolutionTask8HW.dll
