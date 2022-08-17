@@ -1,0 +1,15 @@
+C:\Kate\FirstStepInProgramming\SolutionTask23HW\bin\Debug\net6.0\SolutionTask23HW.exe
+C:\Kate\FirstStepInProgramming\SolutionTask23HW\bin\Debug\net6.0\SolutionTask23HW.deps.json
+C:\Kate\FirstStepInProgramming\SolutionTask23HW\bin\Debug\net6.0\SolutionTask23HW.runtimeconfig.json
+C:\Kate\FirstStepInProgramming\SolutionTask23HW\bin\Debug\net6.0\SolutionTask23HW.dll
+C:\Kate\FirstStepInProgramming\SolutionTask23HW\bin\Debug\net6.0\SolutionTask23HW.pdb
+C:\Kate\FirstStepInProgramming\SolutionTask23HW\obj\Debug\net6.0\SolutionTask23HW.csproj.AssemblyReference.cache
+C:\Kate\FirstStepInProgramming\SolutionTask23HW\obj\Debug\net6.0\SolutionTask23HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kate\FirstStepInProgramming\SolutionTask23HW\obj\Debug\net6.0\SolutionTask23HW.AssemblyInfoInputs.cache
+C:\Kate\FirstStepInProgramming\SolutionTask23HW\obj\Debug\net6.0\SolutionTask23HW.AssemblyInfo.cs
+C:\Kate\FirstStepInProgramming\SolutionTask23HW\obj\Debug\net6.0\SolutionTask23HW.csproj.CoreCompileInputs.cache
+C:\Kate\FirstStepInProgramming\SolutionTask23HW\obj\Debug\net6.0\SolutionTask23HW.dll
+C:\Kate\FirstStepInProgramming\SolutionTask23HW\obj\Debug\net6.0\refint\SolutionTask23HW.dll
+C:\Kate\FirstStepInProgramming\SolutionTask23HW\obj\Debug\net6.0\SolutionTask23HW.pdb
+C:\Kate\FirstStepInProgramming\SolutionTask23HW\obj\Debug\net6.0\SolutionTask23HW.genruntimeconfig.cache
+C:\Kate\FirstStepInProgramming\SolutionTask23HW\obj\Debug\net6.0\ref\SolutionTask23HW.dll

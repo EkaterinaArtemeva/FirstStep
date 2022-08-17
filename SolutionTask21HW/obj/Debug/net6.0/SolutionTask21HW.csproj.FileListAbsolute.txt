@@ -1,0 +1,15 @@
+C:\Kate\FirstStepInProgramming\SolutionTask21HW\bin\Debug\net6.0\SolutionTask21HW.exe
+C:\Kate\FirstStepInProgramming\SolutionTask21HW\bin\Debug\net6.0\SolutionTask21HW.deps.json
+C:\Kate\FirstStepInProgramming\SolutionTask21HW\bin\Debug\net6.0\SolutionTask21HW.runtimeconfig.json
+C:\Kate\FirstStepInProgramming\SolutionTask21HW\bin\Debug\net6.0\SolutionTask21HW.dll
+C:\Kate\FirstStepInProgramming\SolutionTask21HW\bin\Debug\net6.0\SolutionTask21HW.pdb
+C:\Kate\FirstStepInProgramming\SolutionTask21HW\obj\Debug\net6.0\SolutionTask21HW.csproj.AssemblyReference.cache
+C:\Kate\FirstStepInProgramming\SolutionTask21HW\obj\Debug\net6.0\SolutionTask21HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kate\FirstStepInProgramming\SolutionTask21HW\obj\Debug\net6.0\SolutionTask21HW.AssemblyInfoInputs.cache
+C:\Kate\FirstStepInProgramming\SolutionTask21HW\obj\Debug\net6.0\SolutionTask21HW.AssemblyInfo.cs
+C:\Kate\FirstStepInProgramming\SolutionTask21HW\obj\Debug\net6.0\SolutionTask21HW.csproj.CoreCompileInputs.cache
+C:\Kate\FirstStepInProgramming\SolutionTask21HW\obj\Debug\net6.0\SolutionTask21HW.dll
+C:\Kate\FirstStepInProgramming\SolutionTask21HW\obj\Debug\net6.0\refint\SolutionTask21HW.dll
+C:\Kate\FirstStepInProgramming\SolutionTask21HW\obj\Debug\net6.0\SolutionTask21HW.pdb
+C:\Kate\FirstStepInProgramming\SolutionTask21HW\obj\Debug\net6.0\SolutionTask21HW.genruntimeconfig.cache
+C:\Kate\FirstStepInProgramming\SolutionTask21HW\obj\Debug\net6.0\ref\SolutionTask21HW.dll
