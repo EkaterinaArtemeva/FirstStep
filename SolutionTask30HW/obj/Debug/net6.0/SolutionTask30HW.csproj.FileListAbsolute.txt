@@ -1,0 +1,15 @@
+C:\Kate\FirstStepInProgramming\SolutionTask30HW\bin\Debug\net6.0\SolutionTask30HW.exe
+C:\Kate\FirstStepInProgramming\SolutionTask30HW\bin\Debug\net6.0\SolutionTask30HW.deps.json
+C:\Kate\FirstStepInProgramming\SolutionTask30HW\bin\Debug\net6.0\SolutionTask30HW.runtimeconfig.json
+C:\Kate\FirstStepInProgramming\SolutionTask30HW\bin\Debug\net6.0\SolutionTask30HW.dll
+C:\Kate\FirstStepInProgramming\SolutionTask30HW\bin\Debug\net6.0\SolutionTask30HW.pdb
+C:\Kate\FirstStepInProgramming\SolutionTask30HW\obj\Debug\net6.0\SolutionTask30HW.csproj.AssemblyReference.cache
+C:\Kate\FirstStepInProgramming\SolutionTask30HW\obj\Debug\net6.0\SolutionTask30HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kate\FirstStepInProgramming\SolutionTask30HW\obj\Debug\net6.0\SolutionTask30HW.AssemblyInfoInputs.cache
+C:\Kate\FirstStepInProgramming\SolutionTask30HW\obj\Debug\net6.0\SolutionTask30HW.AssemblyInfo.cs
+C:\Kate\FirstStepInProgramming\SolutionTask30HW\obj\Debug\net6.0\SolutionTask30HW.csproj.CoreCompileInputs.cache
+C:\Kate\FirstStepInProgramming\SolutionTask30HW\obj\Debug\net6.0\SolutionTask30HW.dll
+C:\Kate\FirstStepInProgramming\SolutionTask30HW\obj\Debug\net6.0\refint\SolutionTask30HW.dll
+C:\Kate\FirstStepInProgramming\SolutionTask30HW\obj\Debug\net6.0\SolutionTask30HW.pdb
+C:\Kate\FirstStepInProgramming\SolutionTask30HW\obj\Debug\net6.0\SolutionTask30HW.genruntimeconfig.cache
+C:\Kate\FirstStepInProgramming\SolutionTask30HW\obj\Debug\net6.0\ref\SolutionTask30HW.dll
