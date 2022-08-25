@@ -1,0 +1,15 @@
+C:\Kate\FirstStepInProgramming\SolutionTask37HW\bin\Debug\net6.0\SolutionTask37HW.exe
+C:\Kate\FirstStepInProgramming\SolutionTask37HW\bin\Debug\net6.0\SolutionTask37HW.deps.json
+C:\Kate\FirstStepInProgramming\SolutionTask37HW\bin\Debug\net6.0\SolutionTask37HW.runtimeconfig.json
+C:\Kate\FirstStepInProgramming\SolutionTask37HW\bin\Debug\net6.0\SolutionTask37HW.dll
+C:\Kate\FirstStepInProgramming\SolutionTask37HW\bin\Debug\net6.0\SolutionTask37HW.pdb
+C:\Kate\FirstStepInProgramming\SolutionTask37HW\obj\Debug\net6.0\SolutionTask37HW.csproj.AssemblyReference.cache
+C:\Kate\FirstStepInProgramming\SolutionTask37HW\obj\Debug\net6.0\SolutionTask37HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kate\FirstStepInProgramming\SolutionTask37HW\obj\Debug\net6.0\SolutionTask37HW.AssemblyInfoInputs.cache
+C:\Kate\FirstStepInProgramming\SolutionTask37HW\obj\Debug\net6.0\SolutionTask37HW.AssemblyInfo.cs
+C:\Kate\FirstStepInProgramming\SolutionTask37HW\obj\Debug\net6.0\SolutionTask37HW.csproj.CoreCompileInputs.cache
+C:\Kate\FirstStepInProgramming\SolutionTask37HW\obj\Debug\net6.0\SolutionTask37HW.dll
+C:\Kate\FirstStepInProgramming\SolutionTask37HW\obj\Debug\net6.0\refint\SolutionTask37HW.dll
+C:\Kate\FirstStepInProgramming\SolutionTask37HW\obj\Debug\net6.0\SolutionTask37HW.pdb
+C:\Kate\FirstStepInProgramming\SolutionTask37HW\obj\Debug\net6.0\SolutionTask37HW.genruntimeconfig.cache
+C:\Kate\FirstStepInProgramming\SolutionTask37HW\obj\Debug\net6.0\ref\SolutionTask37HW.dll
