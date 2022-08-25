@@ -1,0 +1,15 @@
+C:\Kate\FirstStepInProgramming\SolutionTask33\bin\Debug\net6.0\SolutionTask33.exe
+C:\Kate\FirstStepInProgramming\SolutionTask33\bin\Debug\net6.0\SolutionTask33.deps.json
+C:\Kate\FirstStepInProgramming\SolutionTask33\bin\Debug\net6.0\SolutionTask33.runtimeconfig.json
+C:\Kate\FirstStepInProgramming\SolutionTask33\bin\Debug\net6.0\SolutionTask33.dll
+C:\Kate\FirstStepInProgramming\SolutionTask33\bin\Debug\net6.0\SolutionTask33.pdb
+C:\Kate\FirstStepInProgramming\SolutionTask33\obj\Debug\net6.0\SolutionTask33.csproj.AssemblyReference.cache
+C:\Kate\FirstStepInProgramming\SolutionTask33\obj\Debug\net6.0\SolutionTask33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kate\FirstStepInProgramming\SolutionTask33\obj\Debug\net6.0\SolutionTask33.AssemblyInfoInputs.cache
+C:\Kate\FirstStepInProgramming\SolutionTask33\obj\Debug\net6.0\SolutionTask33.AssemblyInfo.cs
+C:\Kate\FirstStepInProgramming\SolutionTask33\obj\Debug\net6.0\SolutionTask33.csproj.CoreCompileInputs.cache
+C:\Kate\FirstStepInProgramming\SolutionTask33\obj\Debug\net6.0\SolutionTask33.dll
+C:\Kate\FirstStepInProgramming\SolutionTask33\obj\Debug\net6.0\refint\SolutionTask33.dll
+C:\Kate\FirstStepInProgramming\SolutionTask33\obj\Debug\net6.0\SolutionTask33.pdb
+C:\Kate\FirstStepInProgramming\SolutionTask33\obj\Debug\net6.0\SolutionTask33.genruntimeconfig.cache
+C:\Kate\FirstStepInProgramming\SolutionTask33\obj\Debug\net6.0\ref\SolutionTask33.dll
